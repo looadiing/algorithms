@@ -1,2 +1,2 @@
 # algorithms
-algorithms, c++, ts
+algorithms, c++
